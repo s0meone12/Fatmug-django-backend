@@ -1,0 +1,2 @@
+class AmzSpApiFulfillmentFetcher:
+    pass

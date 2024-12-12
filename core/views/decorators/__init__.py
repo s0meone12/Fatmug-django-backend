@@ -1,0 +1,1 @@
+from .main import secret_key_required
